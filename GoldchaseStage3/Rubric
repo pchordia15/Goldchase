@@ -1,0 +1,14 @@
+1.  Compiling(15)               -  done
+2.  Running(20)                 -  done
+3.  daemonID init(5)            -  line 332, line 599
+4.  send SIGHUP(5)              -  line 917, 956, 995, 1034, 1075, 1152, 1204, 1243, 1282, 1321, 1363, 1450, 1503, 1542, 1581, 1620, 1662
+5.  Socket init(10)             -  line 410 - 414, 592 - 599
+6.  Trap SIGHUP(10)             -  line 298 - 313
+7.  Process "Socket Player"(10) -  line 433 - 513, 644 - 723
+8.  Trap SIGUSR2(5)             -  line 
+9.  Process "Socet Message"(5)  -  line 
+10. Trap SIGUSR1(5)             -  line 256 - 290
+11. Process "Socket Map"(5)     -  line 419 - 432, 628 - 643
+12. Daemon Integration(5)       -  line 776 - 781
+
+
